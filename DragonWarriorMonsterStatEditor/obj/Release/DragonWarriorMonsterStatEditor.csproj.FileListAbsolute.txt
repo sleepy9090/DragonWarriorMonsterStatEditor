@@ -1,0 +1,8 @@
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterStatEditor\DragonWarriorMonsterStatEditor\bin\Release\DragonWarriorMonsterStatEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterStatEditor\DragonWarriorMonsterStatEditor\bin\Release\DragonWarriorMonsterStatEditor.pdb
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterStatEditor\DragonWarriorMonsterStatEditor\obj\Release\DragonWarriorMonsterStatEditor.AboutBox1.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterStatEditor\DragonWarriorMonsterStatEditor\obj\Release\DragonWarriorMonsterStatEditor.FormMain.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterStatEditor\DragonWarriorMonsterStatEditor\obj\Release\DragonWarriorMonsterStatEditor.Properties.Resources.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterStatEditor\DragonWarriorMonsterStatEditor\obj\Release\DragonWarriorMonsterStatEditor.csproj.GenerateResource.Cache
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterStatEditor\DragonWarriorMonsterStatEditor\obj\Release\DragonWarriorMonsterStatEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterStatEditor\DragonWarriorMonsterStatEditor\obj\Release\DragonWarriorMonsterStatEditor.pdb
